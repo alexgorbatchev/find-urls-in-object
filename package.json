@@ -1,6 +1,6 @@
 {
   "name": "find-urls-in-object",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Finds all URLs in an object, recursively.",
   "main": "index.js",
   "files": [
