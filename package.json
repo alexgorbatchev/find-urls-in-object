@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "array-uniq": "^1.0.3",
-    "get-urls": "^5.0.1",
+    "get-urls": "^9.0.0",
     "recursive-iterator": "^2.0.0"
   }
 }
